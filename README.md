@@ -11,3 +11,6 @@ Bachelor of Science in Biochemistry from University of California, Los Angeles, 
 Master of Public Health in Biostatistics from University of California, Los Angeles, Expected 2022
 
 ```
+
+### Contact
+Please contact me at lillianmchen@outlook.com for any questions or concerns.
